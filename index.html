@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Perfect Todo</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app" aria-label="Todo application">
+      <header class="app__header">
+        <h1>Perfect Todo</h1>
+        <p>Fast, focused, and persistent task tracking.</p>
+      </header>
+
+      <section class="todo-input" aria-label="Add a task">
+        <label for="newTodo" class="visually-hidden">New task</label>
+        <input
+          id="newTodo"
+          type="text"
+          placeholder="What needs to be done?"
+          maxlength="140"
+          autocomplete="off"
+        />
+        <button id="addTodoBtn" type="button">Add</button>
+      </section>
+
+      <section class="toolbar" aria-label="Todo controls">
+        <div class="filters" role="tablist" aria-label="Filters">
+          <button class="filter is-active" data-filter="all" role="tab" aria-selected="true">All</button>
+          <button class="filter" data-filter="active" role="tab" aria-selected="false">Active</button>
+          <button class="filter" data-filter="completed" role="tab" aria-selected="false">Completed</button>
+        </div>
+        <div class="toolbar__actions">
+          <button id="toggleTheme" type="button" title="Toggle theme">🌗 Theme</button>
+          <button id="clearCompleted" type="button">Clear completed</button>
+        </div>
+      </section>
+
+      <section aria-live="polite" aria-label="Task list">
+        <ul id="todoList" class="todo-list"></ul>
+      </section>
+
+      <footer class="app__footer">
+        <span id="itemsLeft">0 items left</span>
+        <span id="completionRate">0% complete</span>
+      </footer>
+    </main>
+
+    <template id="todoItemTemplate">
+      <li class="todo-item">
+        <label class="todo-item__toggle-wrap">
+          <input class="todo-item__toggle" type="checkbox" />
+          <span class="todo-item__checkmark" aria-hidden="true"></span>
+        </label>
+        <div class="todo-item__content">
+          <p class="todo-item__text"></p>
+          <small class="todo-item__meta"></small>
+        </div>
+        <div class="todo-item__actions">
+          <button class="todo-item__edit" type="button">Edit</button>
+          <button class="todo-item__delete" type="button">Delete</button>
+        </div>
+      </li>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
