@@ -1,4 +1,3 @@
-<!--- Header with Typing Animation --->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=2C9F6E&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Md+Akash+Islam+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+reality+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
@@ -44,23 +43,24 @@ I'm a passionate frontend developer from **Bangladesh** who loves building beaut
 ## 💻 Tech Stack
 
 <div align="center">
-  <table>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/>HTML5</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/>CSS3</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>TypeScript</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>Next.js</td>
-  </tr>
-   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>Node.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" /><br/>Tailwind</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>MongoDB</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/>Firebase</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/>Vercel</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
-   </tr>
-  </table>
+   <table>
+     <tr>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/>HTML5</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/>CSS3</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>TypeScript</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>Next.js</td>
+     </tr>
+     <tr>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>Node.js</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" /><br/>Tailwind</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>MongoDB</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/>Firebase</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/>Vercel</td>
+       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
+     </tr>
+   </table>
 </div>
 
 ---
@@ -84,37 +84,19 @@ I'm a passionate frontend developer from **Bangladesh** who loves building beaut
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 <div align="center">
-  <table>
-   <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Portfolio Website</h3>
-        <p align="center">
-          <a href="https://mdakash.me" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-2C9F6E?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-          <a href="https://github.com/mdakashislam1s/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p>A modern, responsive portfolio showcasing my work and skills. Built with React and TailwindCSS.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">E‑commerce App</h3>
-        <p align="center">
-          <a href="https://your-demo-link.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-2C9F6E?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-          <a href="https://github.com/mdakashislam1s/ecommerce-app" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p>Full-featured online store with cart, authentication, and payment integration. Using Next.js and MongoDB.</p>
-      </td>
-   </tr>
-  </table>
+  <h3>Portfolio Website</h3>
+  <p>
+    <a href="https://mdakash.me" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-2C9F6E?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://github.com/mdakashislam1s/portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <p>A modern, responsive portfolio showcasing my work and skills. Built with React and TailwindCSS.</p>
 </div>
 
 ---
@@ -131,8 +113,6 @@ I'm a passionate frontend developer from **Bangladesh** who loves building beaut
   <a href="https://mdakash.me" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-mdakash.me-2C9F6E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=mdakashislam1s&icon=0&color=6&label=Profile%20Views" alt="Visitor Count" />
   <br/><br/>
   <sub>💡 Open for collaborations | Let's build something amazing together!</sub>
 </div>
