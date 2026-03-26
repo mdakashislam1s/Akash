@@ -1,25 +1,23 @@
-<!--- Header Banner with Gradient --->
+<!--- Header with Typing Animation --->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md%20Akash%20Islam&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Enthusiast&descAlignY=55" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=2C9F6E&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Md+Akash+Islam+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+reality+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
-<!--- Introduction --->
-<div align="center">
-  <h3>✨ Turning Ideas into Interactive Experiences ✨</h3>
-  <p>I'm a passionate frontend developer from Bangladesh, crafting responsive and performant web applications. Currently diving deep into the Next.js ecosystem and exploring backend technologies.</p>
-</div>
+---
 
-<!--- Visitor Counter & Website Badge --->
-<div align="center">
-  <a href="https://mdakash.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mdakash.me-2C9F6E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <img src="https://visitcount.itsvg.in/api?id=mdakashislam1s&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visitor Count" />
-</div>
+## 🌟 About Me
 
-<br/>
+I'm a passionate frontend developer from **Bangladesh** who loves building beautiful, responsive web experiences. Currently diving deep into **Next.js**, **TypeScript**, and backend integration.
 
-<!--- Social Links (Styled Cards) --->
+- 🌱 I’m currently learning **GraphQL** & **Advanced Node.js**
+- 💼 Open to freelance and full‑time opportunities
+- 🎨 Design tools: Adobe Illustrator, Photoshop, Canva
+- 📫 Reach me: **mdakashorigin@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
 <div align="center">
   <a href="https://facebook.com/mdakashislam1s" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -43,49 +41,54 @@
 
 ---
 
-<!--- Tech Stack (Grid with Icons & Labels) --->
-<h2 align="center">🛠️ Tech Stack</h2>
+## 💻 Tech Stack
+
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/>HTML5</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/>CSS3</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JS</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>TS</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>Next.js</td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>Node.js</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/>Tailwind</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>MongoDB</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/>Firebase</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/>Vercel</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
-    </tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/>HTML5</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/>CSS3</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>TypeScript</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>Next.js</td>
+  </tr>
+   <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>Node.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" /><br/>Tailwind</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>MongoDB</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/>Firebase</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/>Vercel</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
+   </tr>
   </table>
 </div>
 
 ---
 
-<!--- GitHub Stats (Custom Cards with Hover Effect) --->
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/mdakashislam1s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdakashislam1s&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashislam1s&theme=gruvbox_light&hide_border=false&layout=compact" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdakashislam1s&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashislam1s&theme=gruvbox_light&hide_border=false&layout=compact" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mdakashislam1s&theme=gruvbox_light&hide_border=false" />
 </div>
 
 ---
 
-<!--- Featured Projects (Card Style) --->
-<h2 align="center">🚀 Featured Projects</h2>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdakashislam1s&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
 <div align="center">
   <table>
-    <tr>
+   <tr>
       <td width="50%" valign="top">
         <h3 align="center">Portfolio Website</h3>
         <p align="center">
@@ -110,22 +113,26 @@
         </p>
         <p>Full-featured online store with cart, authentication, and payment integration. Using Next.js and MongoDB.</p>
       </td>
-    </tr>
+   </tr>
   </table>
 </div>
 
 ---
 
-<!--- Random Dev Quote & Footer --->
+## 📝 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+---
+
 <div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mdakashislam1s&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <a href="https://mdakash.me" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-mdakash.me-2C9F6E?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://visitcount.itsvg.in/api?id=mdakashislam1s&icon=0&color=6&label=Profile%20Views" alt="Visitor Count" />
   <br/><br/>
   <sub>💡 Open for collaborations | Let's build something amazing together!</sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
